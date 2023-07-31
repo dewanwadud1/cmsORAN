@@ -6,7 +6,7 @@ Regardless of the training dataset used, both X and y should follow these struct
 - X structure: [[p11, p21], [p12, p22], [p13, p23], ....]
 - y structure: [y1, y2, y3]
 
-- Each xApp looks like -
+- Each xApp in the used experimental model looks like -
 
             p1 ------>  |...........|
                         |  xApp_1   |-------> O_1
